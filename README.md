@@ -6,7 +6,7 @@ Simple One Page application for youtube searches and video player
 
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/ACE857/YoutubeReact.git
 > cd YoutubeReact
 > npm install
 > npm start
